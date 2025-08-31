@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YkwDCh83Jpk=",
+  "success": true,
+  "projectFilePath": "/Users/emincankurt/Desktop/DotNot_Projects/mqtt/MqttDemo/MqttDemo.csproj",
+  "expectedPackageFiles": [
+    "/Users/emincankurt/.nuget/packages/microsoft.aspnetcore.openapi/9.0.6/microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",
+    "/Users/emincankurt/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512",
+    "/Users/emincankurt/.nuget/packages/mqttnet/5.0.1.1416/mqttnet.5.0.1.1416.nupkg.sha512"
+  ],
+  "logs": []
+}
