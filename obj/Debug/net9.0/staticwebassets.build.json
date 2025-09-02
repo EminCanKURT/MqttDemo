@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "tnKu0iKpftKqFCEH5rnwBFFEKgyyacftTUgU6+arHKE=",
+  "Source": "MqttDemo",
+  "BasePath": "_content/MqttDemo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
