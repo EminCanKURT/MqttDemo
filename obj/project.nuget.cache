@@ -1,12 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "YkwDCh83Jpk=",
+  "dgSpecHash": "SgGEcS+xaZc=",
   "success": true,
   "projectFilePath": "/Users/emincankurt/Desktop/DotNot_Projects/mqtt/MqttDemo/MqttDemo.csproj",
   "expectedPackageFiles": [
     "/Users/emincankurt/.nuget/packages/microsoft.aspnetcore.openapi/9.0.6/microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",
-    "/Users/emincankurt/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512",
-    "/Users/emincankurt/.nuget/packages/mqttnet/5.0.1.1416/mqttnet.5.0.1.1416.nupkg.sha512"
+    "/Users/emincankurt/.nuget/packages/microsoft.extensions.apidescription.server/9.0.0/microsoft.extensions.apidescription.server.9.0.0.nupkg.sha512",
+    "/Users/emincankurt/.nuget/packages/microsoft.openapi/1.6.25/microsoft.openapi.1.6.25.nupkg.sha512",
+    "/Users/emincankurt/.nuget/packages/mqttnet/5.0.1.1416/mqttnet.5.0.1.1416.nupkg.sha512",
+    "/Users/emincankurt/.nuget/packages/swashbuckle.aspnetcore/9.0.4/swashbuckle.aspnetcore.9.0.4.nupkg.sha512",
+    "/Users/emincankurt/.nuget/packages/swashbuckle.aspnetcore.swagger/9.0.4/swashbuckle.aspnetcore.swagger.9.0.4.nupkg.sha512",
+    "/Users/emincankurt/.nuget/packages/swashbuckle.aspnetcore.swaggergen/9.0.4/swashbuckle.aspnetcore.swaggergen.9.0.4.nupkg.sha512",
+    "/Users/emincankurt/.nuget/packages/swashbuckle.aspnetcore.swaggerui/9.0.4/swashbuckle.aspnetcore.swaggerui.9.0.4.nupkg.sha512"
   ],
   "logs": []
 }
